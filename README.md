@@ -26,5 +26,4 @@ pair_coffe * * 12      # Only Use Mg
 > Note: software version. LAMMPS: lammps-23Jun2022; Libtorch: 2.2.0 gcc: >=9.0
 
 ## Cite
-1. If you use the Dataset:
-2. If you use the MLFF:
+1. If you use the Dataset or MLFF model:
