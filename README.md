@@ -26,8 +26,9 @@ pair_coffe * * 12      # Only Use Mg
 > Note: software version. LAMMPS: lammps-23Jun2022; Libtorch: 2.2.0 gcc: >=9.0
 
 ## Cite
-1. If you use the Dataset or MLFF model:
-@article{GENG2025113486,
+1. If you use the Dataset or MLFF model, , please cite our papers:
+```
+@article{GENG2025113486, 
 title = {Exploring the strength-concentration relationship of MgCu bioalloys at low copper content using machine learning force fields},
 journal = {Computational Materials Science},
 volume = {246},
@@ -38,3 +39,4 @@ doi = {https://doi.org/10.1016/j.commatsci.2024.113486},
 url = {https://www.sciencedirect.com/science/article/pii/S0927025624007079},
 author = {Xingze Geng and Lin-Wang Wang and Xiangying Meng}
 }
+```
