@@ -27,3 +27,14 @@ pair_coffe * * 12      # Only Use Mg
 
 ## Cite
 1. If you use the Dataset or MLFF model:
+@article{GENG2025113486,
+title = {Exploring the strength-concentration relationship of MgCu bioalloys at low copper content using machine learning force fields},
+journal = {Computational Materials Science},
+volume = {246},
+pages = {113486},
+year = {2025},
+issn = {0927-0256},
+doi = {https://doi.org/10.1016/j.commatsci.2024.113486},
+url = {https://www.sciencedirect.com/science/article/pii/S0927025624007079},
+author = {Xingze Geng and Lin-Wang Wang and Xiangying Meng}
+}
